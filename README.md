@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="https://github.com/maria1324/preview_card.github.io/raw/nondefault/images/Screenshot_14.png" alt="Screenshot" style="max-width: 100%;">
+<img src="https://github.com/Maria1324/preview_card/blob/main/images/Screenshot_14.png" alt="Screenshot" style="max-width: 100%;">
 
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
